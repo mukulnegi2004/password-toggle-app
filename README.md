@@ -17,6 +17,8 @@ A simple HTML/CSS/JS project that lets users toggle password visibility using an
 - CSS
 - JavaScript
 
+---
+
 ## 💡 How it works
 
 1. User types password in the field.
