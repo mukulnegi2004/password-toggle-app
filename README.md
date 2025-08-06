@@ -50,7 +50,6 @@ project/
 1. Clone or download the repository
 2. Make sure all files (HTML, CSS, JS, and assets) are in the same structure
 3. Open `index.html` in your browser
-4. Start adding your tasks!
 
 ---
 
