@@ -28,7 +28,7 @@ A simple HTML/CSS/JS project that lets users toggle password visibility using an
 ---
 
 ## 📂 Folder Structure
-
+```
 project/
 ├── index.html
 ├── style.css
@@ -36,7 +36,7 @@ project/
 └── assets/
 ├── view.png // Eye closed icon
 └── eye.png // Eye open icon
-
+```
 ---
 
 ## 🚀 Live Demo
@@ -56,7 +56,7 @@ project/
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
